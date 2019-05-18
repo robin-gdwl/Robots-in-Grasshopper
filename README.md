@@ -19,19 +19,28 @@ ___
 |[RoboDK](#RoboDK)      | Free trial<br>145€(Edu)<br>2995€(Pro)          |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|many others<br>[see here](https://robodk.com/library)|[Food4Rhino](https://www.food4rhino.com/app/robodk)<br> [Website](https://robodk.com/)                                                                                                               |
 
 # Descriptions
-## Robots <a name="Robots"></a>
+
+<a name="Robots"></a>
+## Robots
 to be added
-## MACHINA <a name="Machina"></a>
+<a name="Machina"></a>
+## MACHINA
 to be added
-## HAL Robotics <a name="HAL"></a>
+<a name="HAL"></a>
+## HAL Robotics
 to be added
-## KUKA PRC <a name="KukaPRC"></a>
+<a name="KukaPRC"></a>
+## KUKA PRC
 to be added
-## Scorpion <a name="Scorpion"></a>
+<a name="Scorpion"></a>
+## Scorpion
 to be added
-## Taco ABB <a name="Taco"></a>
-to be added
-## Rapcam <a name="Rapcam"></a>
-to be added
-## RoboDK <a name="RoboDK"></a>
+<a name="Taco"></a>
+## Taco ABB
+to be adde
+<a name="Rapcam"></a>d
+## Rapcam
+to be adde
+<a name="RoboDK"></a>d
+## RoboDK
 to be added
