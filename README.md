@@ -8,7 +8,7 @@ ___
 # Overview
 
 | NAME                  |COST                                            | KUKA             |      ABB         | UR               | Fanuc            |other robot brands                                    |Link                                                                                                                                                                                                |
-| ----------            |:-------------:                                 |:----------------:|:----------------:|:----------------:|:----------------:|:--:                                                  |---                                                                                                                                                                                                |
+| ----------            |:-------------:                                 |:----------------:|:----------------:|:----------------:|:----------------:|:--:                                                  |---                                                                                                                                                                                                 |
 |[Robots](#Robots)      | Free (open source)                             |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:               |:x:                                                   |[github](https://github.com/visose/Robots)                                                                                                                                                          |
 |[MACHINA](#Machina)    | Free (open source)                             | :x:              |:white_check_mark:|:white_check_mark:|:x:               |:x:                                                   |[Food4Rhino](https://www.food4rhino.com/app/machina)<br> [github](https://github.com/RobotExMachina)                                                                                                |
 |[HAL Robotics](#HAL)   | £800/yr<br>£60/yr (academic)                   |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:               |:x:                                                   |[Food4Rhino(old)](https://www.food4rhino.com/app/hal-robot-programming-control)<br> [Food4Rhino(new)](https://www.food4rhino.com/app/hal-robotics-framework)<br>[Website](https://hal-robotics.com/)|
@@ -16,7 +16,7 @@ ___
 |[Scorpion](#Scorpion)  | Free                                           | :x:              |:x:               |:white_check_mark:|:x:               |:x:                                                   |[Food4Rhino](https://www.food4rhino.com/app/scorpion)<br>                                                                                                                                           |
 |[Taco ABB](#Taco)      | Free                                           | :x:              |:white_check_mark:|:x:               |:x:               |:x:                                                   |[Food4Rhino](https://www.food4rhino.com/app/taco-abb)<br> [Website](http://blickfeld7.com/architecture/rhino/grasshopper/Taco/)                                                                     |
 |[Rapcam](#Rapcam)      | 150€/month<br>Free trial                       |:white_check_mark:|:white_check_mark:|:x:               |:white_check_mark:|:x:                                                   |[Food4Rhino](https://www.food4rhino.com/app/rapcam-gh)<br> [Website](https://www.rapcam.eu/)                                                                                                        |
-|[RoboDK](#RoboDK)      | Free trial<br>145€(Edu)<br>2995€(Pro)          |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|many others<br>[see here](https://robodk.com/library)|[Food4Rhino](https://www.food4rhino.com/app/robodk)<br> [Website](https://robodk.com/)                                                                                                               |
+|[RoboDK](#RoboDK)      | Free trial<br>145€(Edu)<br>2995€(Pro)          |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|many others<br>[see here](https://robodk.com/library) |[Food4Rhino](https://www.food4rhino.com/app/robodk)<br> [Website](https://robodk.com/)                                                                                                              |
 
 # Descriptions
 
@@ -37,10 +37,10 @@ to be added
 to be added
 <a name="Taco"></a>
 ## Taco ABB
-to be adde
-<a name="Rapcam"></a>d
+to be added
+<a name="Rapcam"></a>
 ## Rapcam
-to be adde
-<a name="RoboDK"></a>d
+to be added
+<a name="RoboDK"></a>
 ## RoboDK
 to be added
