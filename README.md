@@ -15,6 +15,7 @@ _
 |[KUKA PRC](#KukaPRC)   | Free (limited)<br> 450€/yr<br>95€/yr (Student) |:white_check_mark:|:x:               |:x:               |:x:               |:x:                                                   |[Food4Rhino](https://www.food4rhino.com/app/kukaprc-parametric-robot-control-grasshopper)<br> [Website](https://www.robotsinarchitecture.org/kuka-prc)                                              |
 |[Scorpion](#Scorpion)  | **Free**                                       | :x:              |:x:               |:white_check_mark:|:x:               |:x:                                                   |[Food4Rhino](https://www.food4rhino.com/app/scorpion)<br>                                                                                                                                           |
 |[Taco ABB](#Taco)      | **Free**                                       | :x:              |:white_check_mark:|:x:               |:x:               |:x:                                                   |[Food4Rhino](https://www.food4rhino.com/app/taco-abb)<br> [Website](http://blickfeld7.com/architecture/rhino/grasshopper/Taco/)                                                                     |
+|[Furobot](#Furobot)    | **Free**                                       |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:               |:x:                                                   |[Food4Rhino](https://www.food4rhino.com/app/furobot)<br>[Website](http://www.fab-union.com/en/col.jsp?id=103)        |
 |[Rapcam](#Rapcam)      | 150€/month<br>Free trial                       |:white_check_mark:|:white_check_mark:|:x:               |:white_check_mark:|:x:                                                   |[Food4Rhino](https://www.food4rhino.com/app/rapcam-gh)<br> [Website](https://www.rapcam.eu/)                                                                                                        |
 |[RoboDK](#RoboDK)      | Free trial<br>145€(Edu)<br>2995€(Pro)          |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|many others<br>[see here](https://robodk.com/library) |[Food4Rhino](https://www.food4rhino.com/app/robodk)<br> [Website](https://robodk.com/)                                                                                                              |
 
@@ -43,4 +44,8 @@ to be added
 to be added
 <a name="RoboDK"></a>
 ## RoboDK
+to be added
+
+<a name="Furobot"></a>
+## Furobot
 to be added
