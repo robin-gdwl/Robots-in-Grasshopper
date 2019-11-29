@@ -3,8 +3,9 @@
 
 A repository of plugins and Software that can be used to control industrial robots with Grasshopper in Rhino3D.
 ### Compiled by Robin Godwyll
-Will be expanded soon (There will be short descriptions of each plugin). [Raise an Issue](https://github.com/boundlessmaking/Robots-in-Grasshopper/issues) if a plugin is missing.
-_
+Will be expanded soon (There will be short descriptions of each plugin). [Raise an Issue](https://github.com/boundlessmaking/Robots-in-Grasshopper/issues) or pull request if a plugin is missing.
+
+
 # Overview
 
 | NAME                  |COST                                            | KUKA             |      ABB         | UR               | Fanuc            |other<br>robot<br>brands                              |Link                                                                                                                                                                                                |
