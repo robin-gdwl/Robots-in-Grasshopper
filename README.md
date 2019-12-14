@@ -3,7 +3,7 @@
 
 A repository of plugins and Software that can be used to control industrial robots with Grasshopper in Rhino3D.
 ### Compiled by Robin Godwyll
-Will be expanded soon (There will be short descriptions of each plugin). [Raise an Issue](https://github.com/boundlessmaking/Robots-in-Grasshopper/issues) or pull request if a plugin is missing.
+Work in Progress [Raise an Issue](https://github.com/boundlessmaking/Robots-in-Grasshopper/issues) or pull request if a plugin is missing or information is incorrect.
 
 
 # Overview
@@ -38,7 +38,7 @@ Robot brands : **Kuka  ABB  UR  Staubli**
 <a name="Machina"></a>
 ## MACHINA
 Developed by: [Jose Luis Garcia del Castillo](https://github.com/garciadelcastillo)   
-Robot brands : ** Kuka(no command streaming)  ABB  UR **
+Robot brands : **Kuka** (no command streaming)  **ABB  UR**
 
 | offline programming |command streaming | Visualisation |External axis support|    
 | ----------          |:-------------:   |:-------------:|:-------------------:|
@@ -50,7 +50,7 @@ Robot brands : ** Kuka(no command streaming)  ABB  UR **
 <a name="HAL"></a>
 ## HAL Robotics
 Developed by: [HAL Robotics](https://hal-robotics.com/)   
-Robot brands : ** Kuka ABB  UR Staubli**
+Robot brands : **Kuka ABB  UR Staubli**
 
 | offline programming |command streaming | Visualisation    |External axis support|
 | ----------          |:-------------:   |:----------------:|:-------------------:|
@@ -61,7 +61,7 @@ Robot brands : ** Kuka ABB  UR Staubli**
 <a name="KukaPRC"></a>
 ## KUKA PRC
 Developed by: [Robotsinarchitecture](https://www.robotsinarchitecture.org/kuka-prc)   
-Robot brands : ** Kuka **
+Robot brands : **Kuka**
 
 | offline programming |command streaming | Visualisation    |External axis support|
 | ----------          |:-------------:   |:----------------:|:-------------------:|
@@ -86,11 +86,6 @@ Robot brands : **ABB**
 | ----------          |:-------------:   |:----------------:|:-------------------:|
 | :white_check_mark:  |:white_check_mark:|:white_check_mark:|:x:   |
 
-
-<a name="Rapcam"></a>
-## Rapcam
-Rapcam appears to be discontinued by the developers.
-
 <a name="RoboDK"></a>
 ## RoboDK
 to be added
@@ -107,3 +102,7 @@ Robot brands : **ABB**
 | offline programming |command streaming | Visualisation    |External axis support|
 | ----------          |:-------------:   |:-------------:   |:-------------------:|
 | :white_check_mark:  |:white_check_mark:|:white_check_mark:|:x:                  |
+
+<a name="Rapcam"></a>
+## Rapcam
+Rapcam appears to be discontinued by the developers.
