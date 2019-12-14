@@ -18,8 +18,8 @@ Will be expanded soon (There will be short descriptions of each plugin). [Raise 
 |[Taco ABB](#Taco)               | **Free**                                       | :x:              |:white_check_mark:|:x:               |:x:               |:x:                                                   |[Food4Rhino](https://www.food4rhino.com/app/taco-abb)<br> [Website](http://blickfeld7.com/architecture/rhino/grasshopper/Taco/)                                                                     |
 |[Furobot](#Furobot)             | **Free**                                       |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:               |:x:                                                   |[Food4Rhino](https://www.food4rhino.com/app/furobot)<br>[Website](http://www.fab-union.com/en/col.jsp?id=103)        |
 |[Robot Components](#RobotComp)  | **Free**  (open source)                        |:x:               |:white_check_mark:|:x:               |:x:               |:x:                                                   |[github](https://github.com/EDEK-UniKassel/RobotComponents)                         |
-|[Rapcam](#Rapcam)               | 150€/month<br>Free trial                       |:white_check_mark:|:white_check_mark:|:x:               |:white_check_mark:|:x:                                                   |[Food4Rhino](https://www.food4rhino.com/app/rapcam-gh)<br> [Website](https://www.rapcam.eu/)                                                                                                        |
 |[RoboDK](#RoboDK)               | Free trial<br>145€(Edu)<br>2995€(Pro)          |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|many others<br>[see here](https://robodk.com/library) |[Food4Rhino](https://www.food4rhino.com/app/robodk)<br> [Website](https://robodk.com/)                                                                                                              |
+|~~[Rapcam](#Rapcam)~~           | 150€/month<br>Free trial                       |:white_check_mark:|:white_check_mark:|:x:               |:white_check_mark:|:x:                                                   |~~[Food4Rhino](https://www.food4rhino.com/app/rapcam-gh)<br> [Website](https://www.rapcam.eu/)~~                                                                                                        |
 
 # Descriptions
 
@@ -29,39 +29,68 @@ Will be expanded soon (There will be short descriptions of each plugin). [Raise 
 Developed by: [Vicente Soler](https://github.com/visose)   
 Robot brands : **Kuka  ABB  UR  Staubli**
 
-| offline programming |command streaming | Visualisation    |       |       |    |  |
-| ----------          |:-------------:   |:-------------:   |:-----:|:-----:|:--:|--    |
-| :white_check_mark:  |:white_check_mark:|:white_check_mark:|||||
+| offline programming |command streaming | Visualisation    |External axis support|
+| ----------          |:-------------:   |:-------------:   |:-------------------:|
+| :white_check_mark:  |:white_check_mark:|:white_check_mark:|:white_check_mark:   |
 
 
 
 <a name="Machina"></a>
 ## MACHINA
 Developed by: [Jose Luis Garcia del Castillo](https://github.com/garciadelcastillo)   
-Robot brands : ** Kuka \*  ABB  UR **
+Robot brands : ** Kuka(no command streaming)  ABB  UR **
 
-| offline programming |command streaming | Visualisation    |       |       |    |  |
-| ----------          |:-------------:   |:-------------:   |:-----:|:-----:|:--:|--    |
-| :white_check_mark:  |:white_check_mark:|:x:|||||
+| offline programming |command streaming | Visualisation |External axis support|    
+| ----------          |:-------------:   |:-------------:|:-------------------:|
+| :white_check_mark:  |:white_check_mark:|:x: **\***          |:white_check_mark:   |
 
-
+**\* Visualisation:** can be done externally for ABB Robots with ABB Robot Studio
 
 
 <a name="HAL"></a>
 ## HAL Robotics
-to be added
+Developed by: [HAL Robotics](https://hal-robotics.com/)   
+Robot brands : ** Kuka ABB  UR Staubli**
+
+| offline programming |command streaming | Visualisation    |External axis support|
+| ----------          |:-------------:   |:----------------:|:-------------------:|
+| :white_check_mark:  |:white_check_mark:|:white_check_mark:|:question:           |
+
+
+
 <a name="KukaPRC"></a>
 ## KUKA PRC
-to be added
+Developed by: [Robotsinarchitecture](https://www.robotsinarchitecture.org/kuka-prc)   
+Robot brands : ** Kuka **
+
+| offline programming |command streaming | Visualisation    |External axis support|
+| ----------          |:-------------:   |:----------------:|:-------------------:|
+| :white_check_mark:  |:white_check_mark:|:white_check_mark:|:white_check_mark:   |
+
+
 <a name="Scorpion"></a>
 ## Scorpion
-to be added
+Developed by: Khaled ElAshry - Vincent Huyghe - Ruairi Glynn  
+Robot brands : **UR** (Visualisation only for UR10)
+
+| offline programming |command streaming | Visualisation    |External axis support|
+| ----------          |:-------------:   |:-------------:   |:-------------------:|
+| :white_check_mark:  |:white_check_mark:|:white_check_mark:|:x:                  |
+
 <a name="Taco"></a>
 ## Taco ABB
-to be added
+Developed by: [blickfeld7](http://blickfeld7.com/architecture/rhino/grasshopper/Taco/)   
+Robot brands : **ABB**
+
+| offline programming |command streaming | Visualisation    |External axis support|
+| ----------          |:-------------:   |:----------------:|:-------------------:|
+| :white_check_mark:  |:white_check_mark:|:white_check_mark:|:x:   |
+
+
 <a name="Rapcam"></a>
 ## Rapcam
-to be added
+Rapcam appears to be discontinued by the developers.
+
 <a name="RoboDK"></a>
 ## RoboDK
 to be added
@@ -72,4 +101,9 @@ to be added
 
 <a name="RobotComp"></a>
 ## Robot Components
-Developed by [Arjen Deetman](https://github.com/arjendeetman)
+Developed by [EDEK-UniKassel](https://github.com/EDEK-UniKassel)  
+Robot brands : **ABB**
+
+| offline programming |command streaming | Visualisation    |External axis support|
+| ----------          |:-------------:   |:-------------:   |:-------------------:|
+| :white_check_mark:  |:white_check_mark:|:white_check_mark:|:x:                  |
