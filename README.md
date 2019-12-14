@@ -34,7 +34,7 @@ Robot brands : **Kuka  ABB  UR  Staubli**
 | :white_check_mark:  |:white_check_mark:|:white_check_mark:|:white_check_mark:   |
 
 
-
+___
 <a name="Machina"></a>
 ## MACHINA
 Developed by: [Jose Luis Garcia del Castillo](https://github.com/garciadelcastillo)   
@@ -46,7 +46,7 @@ Robot brands : **Kuka** (no command streaming)  **ABB  UR**
 
 **\* Visualisation:** can be done externally for ABB Robots with ABB Robot Studio
 
-
+___
 <a name="HAL"></a>
 ## HAL Robotics
 Developed by: [HAL Robotics](https://hal-robotics.com/)   
@@ -57,7 +57,7 @@ Robot brands : **Kuka ABB  UR Staubli**
 | :white_check_mark:  |:white_check_mark:|:white_check_mark:|:question:           |
 
 
-
+___
 <a name="KukaPRC"></a>
 ## KUKA PRC
 Developed by: [Robotsinarchitecture](https://www.robotsinarchitecture.org/kuka-prc)   
@@ -67,7 +67,7 @@ Robot brands : **Kuka**
 | ----------          |:-------------:   |:----------------:|:-------------------:|
 | :white_check_mark:  |:white_check_mark:|:white_check_mark:|:white_check_mark:   |
 
-
+___
 <a name="Scorpion"></a>
 ## Scorpion
 Developed by: Khaled ElAshry - Vincent Huyghe - Ruairi Glynn  
@@ -77,6 +77,7 @@ Robot brands : **UR** (Visualisation only for UR10)
 | ----------          |:-------------:   |:-------------:   |:-------------------:|
 | :white_check_mark:  |:white_check_mark:|:white_check_mark:|:x:                  |
 
+___
 <a name="Taco"></a>
 ## Taco ABB
 Developed by: [blickfeld7](http://blickfeld7.com/architecture/rhino/grasshopper/Taco/)   
@@ -86,14 +87,17 @@ Robot brands : **ABB**
 | ----------          |:-------------:   |:----------------:|:-------------------:|
 | :white_check_mark:  |:white_check_mark:|:white_check_mark:|:x:   |
 
+___
 <a name="RoboDK"></a>
 ## RoboDK
 to be added
 
+___
 <a name="Furobot"></a>
 ## Furobot
 to be added
 
+___
 <a name="RobotComp"></a>
 ## Robot Components
 Developed by [EDEK-UniKassel](https://github.com/EDEK-UniKassel)  
@@ -103,6 +107,7 @@ Robot brands : **ABB**
 | ----------          |:-------------:   |:-------------:   |:-------------------:|
 | :white_check_mark:  |:white_check_mark:|:white_check_mark:|:x:                  |
 
+___
 <a name="Rapcam"></a>
 ## Rapcam
 Rapcam appears to be discontinued by the developers.
