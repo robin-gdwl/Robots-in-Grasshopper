@@ -95,7 +95,13 @@ to be added
 ___
 <a name="Furobot"></a>
 ## Furobot
-to be added
+Developed by: [Fab-Union](http://www.fab-union.com/en/col.jsp?id=101)   
+Robot brands : **Kuka ABB UR**
+
+|offline programming|command streaming | Visualisation    |External axis support|
+|-------------------|:-------------:   |:----------------:|:-------------------:|
+|:white_check_mark: |:white_check_mark:|:white_check_mark:|:white_check_mark:   |
+
 
 ___
 <a name="RobotComp"></a>
