@@ -122,4 +122,4 @@ Rapcam appears to be discontinued by the developers.
 ___
 <a name="RobotsIO"></a>
 ## ROBOTS IO
-ROBOTS IO seems to be discontinued by the developer. The Website does not exist anymore [robots.io](http://www.robots.io/)
+ROBOTS IO seems to be discontinued by the developer. The website does not exist anymore [robots.io](http://www.robots.io/). Documentation can still be found in this [PDF](https://st2.ning.com/topology/rest/1.0/file/get/2811285740?profile=original).
