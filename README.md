@@ -29,8 +29,12 @@ Work in Progress [Raise an Issue](https://github.com/boundlessmaking/Robots-in-G
 <a name="Robots"></a>
 ## Robots
 
+Website:  [github.com/visose/Robots](https://github.com/visose/Robots)  
+Download:  [via github](https://github.com/visose/Robots/wiki#installation)  
+Price:  **Free** (Open source Plugin)
 Developed by: [Vicente Soler](https://github.com/visose)   
 Robot brands : **Kuka  ABB  UR  Staubli**
+Description:  
 
 | offline programming |command streaming | Visualisation    |External axis support|
 | ----------          |:-------------:   |:-------------:   |:-------------------:|
@@ -40,8 +44,16 @@ Robot brands : **Kuka  ABB  UR  Staubli**
 ___
 <a name="Machina"></a>
 ## MACHINA
+Website: [github.com/RobotExMachina](https://github.com/RobotExMachina)
+Download: [GH Plugin on Food4Rhino.com](https://www.food4rhino.com/app/machina#downloads_list)
+Research Publications:  [Machina.NET: A Library for Programming [...] of Industrial Robots](http://doi.org/10.5334/jors.247)
+Price: **Free** (Open source) Framework written in **C#**  
 Developed by: [Jose Luis Garcia del Castillo](https://github.com/garciadelcastillo)   
-Robot brands : **Kuka** (no command streaming)  **ABB  UR**
+Robot brands : **Kuka** (no command streaming)  **ABB  UR** 
+
+Description: Machina is a .NET library for action-based real-time control of mechanical actuators. Plugins for Grasshopper and Revit can be used with an app called Machina-Bridge to stream commands directly to a robot. 
+
+"Or in more human terms, it allows you to talk to a robot and tell it what to do."
 
 | offline programming |command streaming | Visualisation |External axis support|    
 | ----------          |:-------------:   |:-------------:|:-------------------:|
@@ -52,8 +64,13 @@ Robot brands : **Kuka** (no command streaming)  **ABB  UR**
 ___
 <a name="HAL"></a>
 ## HAL Robotics
+Website:  
+Download:  
+Research Publications:  
+Price:  
 Developed by: [HAL Robotics](https://hal-robotics.com/)   
 Robot brands : **Kuka ABB  UR Staubli**
+Description:  
 
 | offline programming |command streaming | Visualisation    |External axis support|
 | ----------          |:-------------:   |:----------------:|:-------------------:|
@@ -63,8 +80,13 @@ Robot brands : **Kuka ABB  UR Staubli**
 ___
 <a name="KukaPRC"></a>
 ## KUKA PRC
+Website:  
+Download:  
+Research Publications:  
+Price:  
 Developed by: [Robotsinarchitecture](https://www.robotsinarchitecture.org/kuka-prc)   
 Robot brands : **Kuka**
+Description:  
 
 | offline programming |command streaming | Visualisation    |External axis support|
 | ----------          |:-------------:   |:----------------:|:-------------------:|
@@ -73,8 +95,13 @@ Robot brands : **Kuka**
 ___
 <a name="Scorpion"></a>
 ## Scorpion
+Website:  
+Download:  
+Research Publications:  
+Price:  
 Developed by: Khaled ElAshry - Vincent Huyghe - Ruairi Glynn  
 Robot brands : **UR** (Visualisation only for UR10)
+Description:  
 
 | offline programming |command streaming | Visualisation    |External axis support|
 | ----------          |:-------------:   |:-------------:   |:-------------------:|
@@ -83,8 +110,13 @@ Robot brands : **UR** (Visualisation only for UR10)
 ___
 <a name="Taco"></a>
 ## Taco ABB
+Website:  
+Download:  
+Research Publications:  
+Price:  
 Developed by: [blickfeld7](http://blickfeld7.com/architecture/rhino/grasshopper/Taco/)   
 Robot brands : **ABB**
+Description:  
 
 | offline programming |command streaming | Visualisation    |External axis support|
 | ----------          |:-------------:   |:----------------:|:-------------------:|
@@ -93,13 +125,23 @@ Robot brands : **ABB**
 ___
 <a name="RoboDK"></a>
 ## RoboDK
+Website:  
+Download:  
+Research Publications:  
+Price:  
 to be added
+Description:  
 
 ___
 <a name="Furobot"></a>
 ## Furobot
+Website:  
+Download:  
+Research Publications:  
+Price:  
 Developed by: [Fab-Union](http://www.fab-union.com/en/col.jsp?id=101)   
 Robot brands : **Kuka ABB UR**
+Description:  
 
 |offline programming|command streaming | Visualisation    |External axis support|
 |-------------------|:-------------:   |:----------------:|:-------------------:|
@@ -109,8 +151,13 @@ Robot brands : **Kuka ABB UR**
 ___
 <a name="RobotComp"></a>
 ## Robot Components
+Website:  
+Download:  
+Research Publications:  
+Price:  
 Developed by [EDEK-UniKassel](https://github.com/EDEK-UniKassel)  
 Robot brands : **ABB**
+Description:  
 
 | offline programming |command streaming | Visualisation    |External axis support|
 | ----------          |:-------------:   |:-------------:   |:-------------------:|
@@ -119,9 +166,21 @@ Robot brands : **ABB**
 ___
 <a name="Rapcam"></a>
 ## Rapcam
+Website:  
+Download:  
+Research Publications:  
+Price:  
+Description:  
 Rapcam appears to be discontinued by the developers.
+
 
 ___
 <a name="RobotsIO"></a>
 ## ROBOTS IO
+Website:  
+Download:  
+Research Publications:  
+Price:  
+Description:  
 ROBOTS IO seems to be discontinued by the developer. The website does not exist anymore [robots.io](http://www.robots.io/). Documentation can still be found in this [PDF](https://st2.ning.com/topology/rest/1.0/file/get/2811285740?profile=original).
+ 
