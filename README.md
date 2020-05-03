@@ -20,7 +20,7 @@ Work in Progress [Raise an Issue](https://github.com/boundlessmaking/Robots-in-G
 |[Robot Components](#RobotComp)  | **Free**  (open source)                        |:x:               |:white_check_mark:|:x:               |:x:                                                   |Win                                                          |[github](https://github.com/EDEK-UniKassel/RobotComponents)                                                                                                                                         |
 |[RoboDK](#RoboDK)               | Free trial<br>145€(Edu)<br>2995€(Pro)          |:white_check_mark:|:white_check_mark:|:white_check_mark:|many others<br>[see here](https://robodk.com/library) |Win + Others ([standalone App](https://robodk.com/download)) |[Food4Rhino](https://www.food4rhino.com/app/robodk)<br> [Website](https://robodk.com/)                                                                                                              |
 |~~[Rapcam](#Rapcam)~~           | 150€/month<br>Free trial                       |:white_check_mark:|:white_check_mark:|:x:               |Fanuc                                                 |Win                                                          |~~[Food4Rhino](https://www.food4rhino.com/app/rapcam-gh)<br> [Website](https://www.rapcam.eu/)~~                                                                                                    |
-|~~[ROBOTS IO](#RobotsIO)~~      | **Free**                                       |:white_check_mark:|:question:        |:question:        |:question:                                            |Win                                                          |[Website](https://www.robofold.com/make/software/IO)<br> [Forum](https://www.grasshopper3d.com/group/io)                                                                                            |
+|~~[ROBOTS IO](#RobotsIO)~~      | £166 /yr (Edu) <br> £1999 /yr (Pro)            |:white_check_mark:|:white_check_mark:|:white_check_mark:|Fanuc                                                 |Win                                                          |[Developer Website](https://www.robofold.com/make/software/IO)<br> [Forum](https://www.grasshopper3d.com/group/io)<br>[Archived original Website](https://web.archive.org/web/20170921144658/https://robots.io/wp/) |
 
 \* information according to Food4Rhino.com, some plugins might also work in Rhino/Grasshopper for Mac
 
@@ -46,7 +46,7 @@ ___
 ## MACHINA
 Website: [github.com/RobotExMachina](https://github.com/RobotExMachina)
 Download: [GH Plugin on Food4Rhino.com](https://www.food4rhino.com/app/machina#downloads_list)
-Research Publications:  [Machina.NET: A Library for Programming [...] Industrial Robots](http://doi.org/10.5334/jors.247)
+Research Publications:  [Machina.NET: A Library for Programming [...] Industrial Robots](http://doi.org/10.5334/jors.247)  
 Price: **Free** (Open source) Framework written in **C#**  
 Developed by: [Jose Luis Garcia del Castillo](https://github.com/garciadelcastillo)   
 Robot brands : **Kuka** (no command streaming)  **ABB  UR** 
@@ -116,7 +116,7 @@ Robot brands : **UR** (Visualisation only for UR10)
 ___
 <a name="Taco"></a>
 ## Taco ABB
-Website:
+Website:  
 [Food4Rhino.com](https://www.food4rhino.com/app/taco-abb)   
 [blickfeld7.com](http://blickfeld7.com/architecture/rhino/grasshopper/Taco/)    
 Download:  [blickfeld7.com](http://blickfeld7.com/downloads/installer/Taco.zip)      
@@ -152,7 +152,7 @@ Download:
 Research Publications:  
 Price:  
 Developed by: [Fab-Union](http://www.fab-union.com/en/col.jsp?id=101)   
-Robot brands : **Kuka ABB UR**
+Robot brands : **Kuka ABB UR**  
 Description:  
 
 |offline programming|command streaming | Visualisation    |External axis support|
@@ -179,20 +179,24 @@ ___
 <a name="Rapcam"></a>
 ## Rapcam
 Website:  
-Download:  
-Research Publications:  
-Price:  
-Description:  
-Rapcam appears to be discontinued by the developers.
+~~[rapcam.eu](https://www.rapcam.eu/software/rapcam-for-grasshopper/)~~  ([Archived](https://web.archive.org/web/20190207201747/https://www.rapcam.eu/))  
+~~[Food4Rhino.com](https://www.food4rhino.com/app/rapcam)~~  
+[Developer Website: raptech.io](https://www.raptech.io/)  
+ 
+The Grasshopper Plugin Rapcam appears to be discontinued by the developers.
+Youtube videos describing its functionality can still be found [here](https://www.youtube.com/channel/UCGIOlbL0PD9FBO_yz02_8nQ).  
+The [company](https://www.raptech.io/) now offers a standalone software for robotic 3D-printing with concrete which can be found [here](https://www.raptech.io/rapcam).
 
 
 ___
 <a name="RobotsIO"></a>
 ## ROBOTS IO
 Website:  
-Download:  
-Research Publications:  
-Price:  
+[Developer Website: robofold.com](https://www.robofold.com/make/software/IO)    
+~~[robots.io](robots.io/wp)~~  ([Archived](https://web.archive.org/web/20170921144658/https://robots.io/wp/))  
+  
 Description:  
-ROBOTS IO seems to be discontinued by the developer. The website does not exist anymore [robots.io](http://www.robots.io/). Documentation can still be found in this [PDF](https://st2.ning.com/topology/rest/1.0/file/get/2811285740?profile=original).
+
+ROBOTS IO seems to be discontinued by the developer. The website does not exist anymore at [robots.io](http://www.robots.io/). You can find an archived version of the website [here](https://web.archive.org/web/20190207201747/https://www.rapcam.eu/).
+Documentation of the plugin can be found in this [PDF](https://st2.ning.com/topology/rest/1.0/file/get/2811285740?profile=original).
  
