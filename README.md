@@ -116,13 +116,18 @@ Robot brands : **UR** (Visualisation only for UR10)
 ___
 <a name="Taco"></a>
 ## Taco ABB
-Website:  
-Download:  
-Research Publications:  
-Price:  
+Website:
+[Food4Rhino.com](https://www.food4rhino.com/app/taco-abb)   
+[blickfeld7.com](http://blickfeld7.com/architecture/rhino/grasshopper/Taco/)    
+Download:  [blickfeld7.com](http://blickfeld7.com/downloads/installer/Taco.zip)      
+Research Publications utilising this plugin:  
+[Tool Path Generator for Artistic Drawing with Industrial Robot](https://www.researchgate.net/publication/338598379_Tool_Path_Generator_for_Artistic_Drawing_with_Industrial_Robot)  
+[Robotic Formwork in the MARS Pavilion](http://papers.cumincad.org/data/works/att/acadia17_522.pdf)  
+[Robotic Fabrication Workflows for Environmentally Driven Facades](https://vtechworks.lib.vt.edu/bitstream/handle/10919/92001/Cabrera_PM_T_2019.pdf?sequence=1)  
+Price:  Free   
 Developed by: [blickfeld7](http://blickfeld7.com/architecture/rhino/grasshopper/Taco/)   
-Robot brands : **ABB**
-Description:  
+Robot brands : **ABB**  
+Description:  TACO is a free and user-friendly programming plugin for the simulation and control of ABB industrial robots directly within Grasshopper. Taco offers users to program and visualize ABB robots with parametrics.  
 
 | offline programming |command streaming | Visualisation    |External axis support|
 | ----------          |:-------------:   |:----------------:|:-------------------:|
