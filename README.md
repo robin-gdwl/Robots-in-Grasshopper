@@ -65,7 +65,7 @@ ___
 <a name="HAL"></a>
 ## HAL Robotics
 Website:  [hal-robotics.com](https://hal-robotics.com/)  
-Research Publications:  
+
 Price:    
     - Professional: £800+  /yr   
     - Academic ( non commerical use): £60+ /yr  
@@ -102,12 +102,19 @@ ___
 ## Scorpion
 Website:   
 [Food4Rhino.com ](https://www.food4rhino.com/app/scorpion)  
-~~[scorpion-robotics.org](http://scorpion-robotics.com/)~~  (offline)  
+~~[scorpion-robotics.org](http://scorpion-robotics.com/)~~  (offline, [Archived](https://web.archive.org/web/20170601033032/http://scorpion-robotics.com/))  
 Download:  [Food4Rhino.com](https://www.food4rhino.com/app/scorpion#downloads_list)    
 Research Publications:  [Automated Construction Using Adaptive Programing](https://www.researchgate.net/publication/300721200_An_Approach_to_Automated_Construction_Using_Adaptive_Programing)  
-Price: Free   
+Price: Free (open source Grasshopper component)  
 Developed by: [Khaled Elashry](https://www.researchgate.net/profile/Khaled_Elashry2) - [Vincent Huyghe](https://www.ucl.ac.uk/bartlett/architecture/vincent-huyghe) - [Ruairi Glynn  ](https://www.researchgate.net/profile/Ruairi_Glynn)  
-Robot brands : **UR** (Visualisation only for UR10)    
+Robot brands : **UR** (Visualisation only for UR10)   
+Description:  
+Scorpion is an open source robotic controller for Industrial Robots currently in beta.
+Scorpion contains tools to control universal robots industrial robots, Including:  
+Easy generation of robotic programs from paths,  
+Inverse kinematic solver for universal robots,    
+Direct upload to the robots through TCP/IP,  
+End-effector Tools 
 
 | offline programming |command streaming | Visualisation    |External axis support|
 | ----------          |:-------------:   |:-------------:   |:-------------------:|
@@ -147,6 +154,7 @@ Description:
 ___
 <a name="Furobot"></a>
 ## Furobot
+__to be added__    
 Website:  
 Download:  
 Research Publications:  
@@ -163,6 +171,7 @@ Description:
 ___
 <a name="RobotComp"></a>
 ## Robot Components
+__to be added__   
 Website:  
 Download:  
 Research Publications:  
@@ -179,7 +188,7 @@ ___
 <a name="Rapcam"></a>
 ## Rapcam
 Website:  
-~~[rapcam.eu](https://www.rapcam.eu/software/rapcam-for-grasshopper/)~~  ([Archived](https://web.archive.org/web/20190207201747/https://www.rapcam.eu/))  
+~~[rapcam.eu](https://www.rapcam.eu/software/rapcam-for-grasshopper/)~~  (offline, [archived](https://web.archive.org/web/20190207201747/https://www.rapcam.eu/))  
 ~~[Food4Rhino.com](https://www.food4rhino.com/app/rapcam)~~  
 [Developer Website: raptech.io](https://www.raptech.io/)  
  
@@ -193,10 +202,10 @@ ___
 ## ROBOTS IO
 Website:  
 [Developer Website: robofold.com](https://www.robofold.com/make/software/IO)    
-~~[robots.io](robots.io/wp)~~  ([Archived](https://web.archive.org/web/20170921144658/https://robots.io/wp/))  
+~~[robots.io](robots.io/wp)~~  (ofline, [archived](https://web.archive.org/web/20170921144658/https://robots.io/wp/))  
   
 Description:  
 
-ROBOTS IO seems to be discontinued by the developer. The website does not exist anymore at [robots.io](http://www.robots.io/). You can find an archived version of the website [here](https://web.archive.org/web/20190207201747/https://www.rapcam.eu/).
+ROBOTS IO seems to be discontinued by the developer. The website at [robots.io](http://www.robots.io/) is offline. You can find an archived version of the website [here](https://web.archive.org/web/20190207201747/https://www.rapcam.eu/).
 Documentation of the plugin can be found in this [PDF](https://st2.ning.com/topology/rest/1.0/file/get/2811285740?profile=original).
  
