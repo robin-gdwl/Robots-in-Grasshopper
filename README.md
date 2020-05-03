@@ -202,7 +202,7 @@ ___
 ## ROBOTS IO
 Website:  
 [Developer Website: robofold.com](https://www.robofold.com/make/software/IO)    
-~~[robots.io](robots.io/wp)~~  (ofline, [archived](https://web.archive.org/web/20170921144658/https://robots.io/wp/))  
+~~[robots.io](robots.io/wp)~~  (offline, [archived](https://web.archive.org/web/20170921144658/https://robots.io/wp/))  
   
 Description:  
 
