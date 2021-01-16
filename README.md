@@ -9,7 +9,7 @@ Work in Progress [Raise an Issue](https://github.com/boundlessmaking/Robots-in-G
 # Overview
 
 | NAME                           |PRICE                                           | KUKA             |      ABB         | UR               |other<br>robot<br>brands                              | Operating systems*                                          |Link                                                                                                                                                                                                |
-| ----------                     |:-------------:                                 |:----------------:|:----------------:|:----------------:|:--:                                                  |:----------------:                                           |---                                                                                                                                                                                                 |
+| ----------                     |:-------------:                                 |:----------------:|:----------------:|:----------------:|:--:                                                  |:------------:                                           |---                                                                                                                                                                                                 |
 |[Robots](#Robots)               | **Free** (open source)                         |:white_check_mark:|:white_check_mark:|:white_check_mark:|Staubli                                               |Win + MacOS                                                  |[github](https://github.com/visose/Robots)                                                                                                                                                          |
 |[MACHINA](#Machina)             | **Free** (open source)                         |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/machina)<br> [github](https://github.com/RobotExMachina)                                                                                                |
 |[Axis](#Axis)                   | **Free** (open source)                         |:question:   |:white_check_mark:|:x:               |[easy custom Robot creation inside gh](https://github.com/AxisArch/Axis/wiki/Custom-Robot)    |Win                  |[github](https://github.com/AxisArch/Axis)                                                                                                                                                          |
@@ -45,9 +45,9 @@ Robot brands : **Kuka  ABB  UR  Staubli**
 ___
 <a name="Machina"></a>
 ## MACHINA
-Website: [github.com/RobotExMachina](https://github.com/RobotExMachina)
-Download: [GH Plugin on Food4Rhino.com](https://www.food4rhino.com/app/machina#downloads_list)
-Research Publications:  [Machina.NET: A Library for Programming [...] Industrial Robots](http://doi.org/10.5334/jors.247)  
+Website: [github.com/RobotExMachina](https://github.com/RobotExMachina)  
+Download: [GH Plugin on Food4Rhino.com](https://www.food4rhino.com/app/machina#downloads_list)  
+Research Publications:  [Machina.NET: A Library for Programming [...] Industrial Robots](http://doi.org/10.5334/jors.247)    
 Price: **Free** (Open source) Framework written in **C#**  
 Developed by: [Jose Luis Garcia del Castillo](https://github.com/garciadelcastillo)   
 Robot brands : **Kuka** (no command streaming)  **ABB  UR** 
@@ -69,7 +69,7 @@ ___
 ## AxisArch - Axis
 Website:  [github.com/AxisArch/Axis](https://github.com/AxisArch/Axis)  
 
-Price: **Free** (Open source written in C#)  
+Price: **Free** (Open source; written in C#)  
 
 Developed by: [Ryan Hughes](https://github.com/rhughes42), [Povl Filip Sonne-Frederiksen](https://github.com/pfmephisto), [axisarch.tech](https://axisarch.tech/framework)  
 Robot brands : **ABB** **Kuka** (not fully supported)     
@@ -207,7 +207,7 @@ Description:
 
 | offline programming |command streaming | Visualisation    |External axis support|
 | ----------          |:-------------:   |:-------------:   |:-------------------:|
-| :white_check_mark:  |:white_check_mark:|:white_check_mark:|:x:                  |
+| :white_check_mark:  |:white_check_mark:|:white_check_mark:|:white_check_mark:   |
 
 ___
 <a name="Rapcam"></a>
