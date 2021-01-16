@@ -12,6 +12,7 @@ Work in Progress [Raise an Issue](https://github.com/boundlessmaking/Robots-in-G
 | ----------                     |:-------------:                                 |:----------------:|:----------------:|:----------------:|:--:                                                  |:----------------:                                           |---                                                                                                                                                                                                 |
 |[Robots](#Robots)               | **Free** (open source)                         |:white_check_mark:|:white_check_mark:|:white_check_mark:|Staubli                                               |Win + MacOS                                                  |[github](https://github.com/visose/Robots)                                                                                                                                                          |
 |[MACHINA](#Machina)             | **Free** (open source)                         |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/machina)<br> [github](https://github.com/RobotExMachina)                                                                                                |
+|[Axis](#Axis)                   | **Free** (open source)                         |:question:   |:white_check_mark:|:x:               |[easy custom Robot creation inside gh](https://github.com/AxisArch/Axis/wiki/Custom-Robot)    |Win                  |[github](https://github.com/AxisArch/Axis)                                                                                                                                                          |
 |[Furobot](#Furobot)             | **Free**                                       |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/furobot)<br>[Website](http://www.fab-union.com/en/col.jsp?id=103)                                                                                       |
 |[HAL Robotics](#HAL)            | £800/yr<br>£60/yr (academic)<br>Free trial     |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:                                                   |Win                                                          |[Food4Rhino(old)](https://www.food4rhino.com/app/hal-robot-programming-control)<br> [Food4Rhino(new)](https://www.food4rhino.com/app/hal-robotics-framework)<br>[Website](https://hal-robotics.com/)|
 |[KUKA PRC](#KukaPRC)            | Free (limited)<br> 450€/yr<br>95€/yr (Student) |:white_check_mark:|:x:               |:x:               |:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/kukaprc-parametric-robot-control-grasshopper)<br> [Website](https://www.robotsinarchitecture.org/kuka-prc)                                              |
@@ -60,6 +61,26 @@ Description: Machina is a .NET library for action-based real-time control of mec
 | :white_check_mark:  |:white_check_mark:|:x: **\***          |:white_check_mark:   |
 
 **\* Visualisation:** can be done externally for ABB Robots with ABB Robot Studio
+
+
+___
+<a name="Axis"></a>
+## AxisArch - Axis
+Website:  [github.com/AxisArch/Axis](https://github.com/AxisArch/Axis)  
+
+Price: **Free** (Open source written in C#)
+
+Developed by: [axisarch.tech](https://axisarch.tech/framework)
+Robot brands : **Kuka (not fully supported) ABB **    
+Description: Axis is a plugin for Rhino/Grasshopper a 3D modeling and parametric design framework for designers and architects.
+It offers the following components: 
+- Main components such as Code Generator or Simulation.
+- Connections and interactions with live controllers.
+- Set Up which are secondary components to set settings such as speed and zone
+
+| offline programming |command streaming | Visualisation    |External axis support|
+| ----------          |:-------------:   |:----------------:|:-------------------:|
+| :white_check_mark:  |:white_check_mark:|:white_check_mark:|:question:           |
 
 ___
 <a name="HAL"></a>
