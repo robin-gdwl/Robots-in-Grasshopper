@@ -11,7 +11,5 @@
     - 
 
 ## Plugins to add:
-https://www.food4rhino.com/app/rfdrobotic-fabrication-design
-https://www.food4rhino.com/app/taco-hiwin
-https://www.food4rhino.com/app/cobra
-https://www.food4rhino.com/app/rhinorobot-3 (not for grasshopper / rhino plugin)
+https://www.food4rhino.com/app/rfdrobotic-fabrication-design   
+https://www.food4rhino.com/app/rhinorobot-3 (not for grasshopper / rhino plugin)  

@@ -1,30 +1,34 @@
 # Robots in Grasshopper
 🤖 + 🦗
 
-A repository of plugins and Software that can be used to control industrial robots with Grasshopper in Rhino3D.
-### Compiled by Robin Godwyll
-Work in Progress. [Raise an Issue](https://github.com/boundlessmaking/Robots-in-Grasshopper/issues) or pull request if a plugin is missing or information is incorrect.   
-Not all Plugins have been tested by me. Use at your own Risk. 
+A repository of plugins and software that can be used to control industrial robots with Grasshopper in Rhinoceros3D.
+### Compiled by [Robin Godwyll](github.com/robin-gdwl)  
+**Work in Progress**. [Raise an Issue](https://github.com/boundlessmaking/Robots-in-Grasshopper/issues) or pull request if a plugin is missing or information is incorrect.   
+Not all Plugins have been tested by me. Use at your own Risk.   
+The list tries to sort the plugins by accessibility (price, robot brands supported, open-source), It is not a ranking in functionality or quality. 
 
 
 # Overview
 
-| NAME                           |PRICE                                           | KUKA             |      ABB         | UR               |other<br>robot<br>brands                              | Operating systems*                                          |Link                                                                                                                                                                                                |
-| ----------                     |:-------------:                                 |:----------------:|:----------------:|:----------------:|:--:                                                  |:------------:                                               |---                                                                                                                                                                                                 |
-|[Robots](#Robots)               | **Free** (open source)                         |:white_check_mark:|:white_check_mark:|:white_check_mark:|Staubli                                               |Win  <br>MacOS                                               |[github](https://github.com/visose/Robots)                                                                                                                                                          |
-|[MACHINA](#Machina)             | **Free** (open source)                         |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/machina)<br> [github](https://github.com/RobotExMachina)                                                                                                |
-|[Axis](#Axis)                   | **Free** (open source)                         |:question:   |:white_check_mark:|:x:               |[easy custom Robot creation inside gh](https://github.com/AxisArch/Axis/wiki/Custom-Robot)    |Win                       |[github](https://github.com/AxisArch/Axis)                                                                                                                                                          |
-|[Furobot](#Furobot)             | **Free**                                       |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/furobot)<br>[Website](http://www.fab-union.com/en/col.jsp?id=103)                                                                                       |
-|[HAL Robotics](#HAL)            | £800/yr<br>£60/yr (academic)<br>Free trial     |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:                                                   |Win                                                          |[Food4Rhino(old)](https://www.food4rhino.com/app/hal-robot-programming-control)<br> [Food4Rhino(new)](https://www.food4rhino.com/app/hal-robotics-framework)<br>[Website](https://hal-robotics.com/)|
-|[KUKA PRC](#KukaPRC)            | Free (limited)<br> 450€/yr<br>95€/yr (Student) |:white_check_mark:|:x:               |:x:               |:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/kukaprc-parametric-robot-control-grasshopper)<br> [Website](https://www.robotsinarchitecture.org/kuka-prc)                                              |
-|[Robot Components](#RobotComp)  | **Free**  (open source)                        |:x:               |:white_check_mark:|:x:               |:x:                                                   |Win                                                          |[github](https://github.com/EDEK-UniKassel/RobotComponents)<br> [Food4Rhino](https://www.food4rhino.com/app/robot-components#) <br> [linktree](https://linktr.ee/RobotComponents) <br> [Documentation](https://robotcomponents.github.io/RobotComponents-Documentation/) <br> [github-organisation](https://github.com/RobotComponents)                                                                                                                                        |
-|[Scorpion](#Scorpion)           | **Free** (open source)                         | :x:              |:x:               |:white_check_mark:|:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/scorpion)<br>                                                                                                                                           |
-|[Taco ABB](#Taco)               | **Free**                                       | :x:              |:white_check_mark:|:x:               |:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/taco-abb)<br> [Website](http://blickfeld7.com/architecture/rhino/grasshopper/Taco/)                                                                     |
-|[RoboDK](#RoboDK)               | Free trial<br>145€(Edu)<br>2995€(Pro)          |:white_check_mark:|:white_check_mark:|:white_check_mark:|many others<br>[see here](https://robodk.com/library) |Win + Others ([standalone App](https://robodk.com/download)) |[Food4Rhino](https://www.food4rhino.com/app/robodk)<br> [Website](https://robodk.com/)                                                                                                              |
-|~~[Rapcam](#Rapcam)~~           | 150€/month<br>Free trial                       |:white_check_mark:|:white_check_mark:|:x:               |Fanuc                                                 |Win                                                          |~~[Food4Rhino](https://www.food4rhino.com/app/rapcam-gh)<br> [Website](https://www.rapcam.eu/)~~                                                                                                    |
-|~~[ROBOTS IO](#RobotsIO)~~      | £166 /yr (Edu) <br> £1999 /yr (Pro)            |:white_check_mark:|:white_check_mark:|:white_check_mark:|Fanuc                                                 |Win                                                          |[Developer Website](https://www.robofold.com/make/software/IO)<br> [Forum](https://www.grasshopper3d.com/group/io)<br>[Archived original Website](https://web.archive.org/web/20170921144658/https://robots.io/wp/) |
+| NAME                         |PRICE                                           | KUKA                                                                          |      ABB         | UR               |other<br>robot<br>brands                              | Operating systems*                                          |Link                                                                                                                                                                                                |
+| ----------                   |:-------------:                                 |:----------------:                                                             |:----------------:|:----------------:|:--:                                                  |:------------:                                               |---                                                                                                                                                                                                 |
+|[Robots](#Robots)             | **Free** (open source)                         |:white_check_mark:                                                             |:white_check_mark:|:white_check_mark:|Staubli                                               |Win  <br>MacOS                                               |[github](https://github.com/visose/Robots)                                                                                                                                                          |
+|[MACHINA](#Machina)           | **Free** (open source)                         |:white_check_mark:                                                             |:white_check_mark:|:white_check_mark:|:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/machina)<br> [github](https://github.com/RobotExMachina)                                                                                                |
+|[Furobot](#Furobot)           | **Free**                                       |:white_check_mark:                                                             |:white_check_mark:|:white_check_mark:|:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/furobot)<br>[Website](http://www.fab-union.com/en/col.jsp?id=103)                                                                                       |
+|[HAL Robotics](#HAL)          | £800/yr<br>£60/yr (academic)<br>Free trial     |:white_check_mark:                                                             |:white_check_mark:|:white_check_mark:|:x:                                                   |Win                                                          |[Food4Rhino(old)](https://www.food4rhino.com/app/hal-robot-programming-control)<br> [Food4Rhino(new)](https://www.food4rhino.com/app/hal-robotics-framework)<br>[Website](https://hal-robotics.com/)|
+|[Axis](#Axis)                 | **Free** (open source)                         |:question:                                                                     |:white_check_mark:|:x:               |[easy custom Robot creation inside gh](https://github.com/AxisArch/Axis/wiki/Custom-Robot)    |Win                  |[github](https://github.com/AxisArch/Axis)                                                                                                                                                          |
+|[Robot Components](#RobotComp)| **Free**  (open source)                        |:x:                                                                            |:white_check_mark:|:x:               |:x:                                                   |Win                                                          |[github](https://github.com/EDEK-UniKassel/RobotComponents)<br> [Food4Rhino](https://www.food4rhino.com/app/robot-components#) <br> [Documentation](https://robotcomponents.github.io/RobotComponents-Documentation/) <br> [github-organisation](https://github.com/RobotComponents) |
+|[KUKA PRC](#KukaPRC)          | Free (limited)<br> 450€/yr<br>95€/yr (Student) |:white_check_mark:                                                             |:x:               |:x:               |:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/kukaprc-parametric-robot-control-grasshopper)<br> [Website](https://www.robotsinarchitecture.org/kuka-prc)                                              |
+|[Taco ABB](#TacoABB)          | **Free**                                       | :x:                                                                           |:white_check_mark:|:x:               |:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/taco-abb)<br> [Website](http://blickfeld7.com/architecture/rhino/grasshopper/Taco/)                                                                     |
+|[Taco HIWIN](#TacoHIWIN)      | **Free**                                       | :x:                                                                           |:x:               |:x:               |[**HIWIN**](https://www.hiwin.tw/products/mar/multi_axis_robot_list.aspx)                     |Win                  |[Food4Rhino](https://www.food4rhino.com/app/taco-hiwin)<br> [Facebook](https://www.facebook.com/rosocoop/)                                                                     |
+|[RoboDK](#RoboDK)             | Free trial<br>145€(Edu)<br>2995€(Pro)          |:white_check_mark:                                                             |:white_check_mark:|:white_check_mark:|many others<br>[see here](https://robodk.com/library) |Win + Others ([standalone App](https://robodk.com/download)) |[Food4Rhino](https://www.food4rhino.com/app/robodk)<br> [Website](https://robodk.com/)                                                                                                              |
+|[Cobra](#Cobra)               | **Free** (open source)                         |[KR6-10R900](www.kuka.com/en-de/products/robot-systems/industrial-robots/kr-agilus) |:x:          |:x:               |:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/cobra)<br>[github](https://github.com/richardgolee/EasyRobot)                                                                                                                                            |
+|[Robot Fabrication Design](#RFD)| **Free**                                     |[KR 120 R2500](www.google.com/search?q=KR+120+R2500+pro)                       |:x:               |:x:               |:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/rfdrobotic-fabrication-design)<br>[Website](https://www.mxmarchitects.com/lab-mxm)                                                                                                                                            |
+|[Scorpion](#Scorpion)         | **Free** (open source)                         | :x:                                                                           |:x:               |:white_check_mark:|:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/scorpion)<br>                                                                                                                                           |
+|~~[Rapcam](#Rapcam)~~         | 150€/month<br>Free trial                       |:white_check_mark:                                                             |:white_check_mark:|:x:               |Fanuc                                                 |Win                                                          |~~[Food4Rhino](https://www.food4rhino.com/app/rapcam-gh)<br> [Website](https://www.rapcam.eu/)~~                                                                                                    |
+|~~[ROBOTS IO](#RobotsIO)~~    | £166 /yr (Edu) <br> £1999 /yr (Pro)            |:white_check_mark:                                                             |:white_check_mark:|:white_check_mark:|Fanuc                                                 |Win                                                          |[Developer Website](https://www.robofold.com/make/software/IO)<br> [Forum](https://www.grasshopper3d.com/group/io)<br>[Archived original Website](https://web.archive.org/web/20170921144658/https://robots.io/wp/) |
 
-\* information according to Food4Rhino.com, some plugins might also work in Rhino/Grasshopper for Mac
+\* information according to Food4Rhino.com, some plugins might also work in Rhino/Grasshopper for Mac. Let me know if you are using one of the plugins on a mac and it works. 
 
 # Details
 
@@ -146,7 +150,7 @@ End-effector Tools
 | :white_check_mark:  |:white_check_mark:|:white_check_mark:|:x:                  |
 
 ___
-<a name="Taco ABB"></a>
+<a name="TacoABB"></a>
 ## Taco ABB
 Website:  
 [Food4Rhino.com](https://www.food4rhino.com/app/taco-abb)   
@@ -167,6 +171,11 @@ TACO-ABB is a free and user-friendly programming plugin for the simulation and c
 | :white_check_mark:  |:white_check_mark:|:white_check_mark:|:x:   |
 
 ___
+<a name="TacoHIWIN"></a>
+## Taco HIWIN
+Developed by: [Shih-Yuan Wang](https://www.arch.nctu.edu.tw/en/people-2/shihyuanwang-2/), Yu-Ting Sheng, Florian Frank
+__to be added__
+___
 <a name="RoboDK"></a>
 ## RoboDK
 __to be added__  
@@ -177,6 +186,17 @@ Price:
 to be added  
 Description:  
 
+___
+<a name="Cobra"></a>
+## Cobra
+Developed by: [MXM-Architects](https://www.mxmarchitects.com/lab-mxm)
+__to be added__
+
+___
+<a name="RFD"></a>
+## Robotic Fabrication Design
+Developed by: [MXM-Architects](https://www.mxmarchitects.com/lab-mxm)
+__to be added__
 ___
 <a name="Furobot"></a>
 ## Furobot
