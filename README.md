@@ -8,7 +8,7 @@ Work in Progress [Raise an Issue](https://github.com/boundlessmaking/Robots-in-G
 
 # Overview
 
-| NAME                           |COST                                            | KUKA             |      ABB         | UR               |other<br>robot<br>brands                              | Operating systems*                                          |Link                                                                                                                                                                                                |
+| NAME                           |PRICE                                           | KUKA             |      ABB         | UR               |other<br>robot<br>brands                              | Operating systems*                                          |Link                                                                                                                                                                                                |
 | ----------                     |:-------------:                                 |:----------------:|:----------------:|:----------------:|:--:                                                  |:----------------:                                           |---                                                                                                                                                                                                 |
 |[Robots](#Robots)               | **Free** (open source)                         |:white_check_mark:|:white_check_mark:|:white_check_mark:|Staubli                                               |Win + MacOS                                                  |[github](https://github.com/visose/Robots)                                                                                                                                                          |
 |[MACHINA](#Machina)             | **Free** (open source)                         |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:                                                   |Win                                                          |[Food4Rhino](https://www.food4rhino.com/app/machina)<br> [github](https://github.com/RobotExMachina)                                                                                                |
@@ -52,7 +52,8 @@ Price: **Free** (Open source) Framework written in **C#**
 Developed by: [Jose Luis Garcia del Castillo](https://github.com/garciadelcastillo)   
 Robot brands : **Kuka** (no command streaming)  **ABB  UR** 
 
-Description: Machina is a .NET library for action-based real-time control of mechanical actuators. Plugins for Grasshopper and Revit can be used with an app called Machina-Bridge to stream commands directly to a robot. 
+Description:  
+Machina is a .NET library for action-based real-time control of mechanical actuators. Plugins for Grasshopper and Revit can be used with an app called Machina-Bridge to stream commands directly to a robot. 
 
 "Or in more human terms, it allows you to talk to a robot and tell it what to do."
 
@@ -68,14 +69,16 @@ ___
 ## AxisArch - Axis
 Website:  [github.com/AxisArch/Axis](https://github.com/AxisArch/Axis)  
 
-Price: **Free** (Open source written in C#)
+Price: **Free** (Open source written in C#)  
 
-Developed by: [axisarch.tech](https://axisarch.tech/framework)
-Robot brands : **Kuka (not fully supported) ABB **    
-Description: Axis is a plugin for Rhino/Grasshopper a 3D modeling and parametric design framework for designers and architects.
+Developed by: [Ryan Hughes](https://github.com/rhughes42), [Povl Filip Sonne-Frederiksen](https://github.com/pfmephisto), [axisarch.tech](https://axisarch.tech/framework)  
+Robot brands : **ABB** **Kuka** (not fully supported)     
+
+Description:  
+Axis is a plugin for Rhino/Grasshopper a 3D modeling and parametric design framework for designers and architects.
 It offers the following components: 
 - Main components such as Code Generator or Simulation.
-- Connections and interactions with live controllers.
+- Connections and interactions with **live controllers**.
 - Set Up which are secondary components to set settings such as speed and zone
 
 | offline programming |command streaming | Visualisation    |External axis support|
@@ -110,7 +113,7 @@ Support/Tutorials: [Forum]([robotsinarchitecture.org](https://www.robotsinarchit
 Research Publications: [Adaptive Industrial Robot Control for Designers](https://www.researchgate.net/publication/319944935_Adaptive_Industrial_Robot_Control_for_Designers)   
 Price:  
     - Academic/Lab: 350€  /yr   
-    - Evaluation: Free  
+    - Evaluation: **Free**  
 Developed by: [Robotsinarchitecture](https://www.robotsinarchitecture.org/kuka-prc)   
 Robot brands : **Kuka**   
 
@@ -126,7 +129,7 @@ Website:
 ~~[scorpion-robotics.org](http://scorpion-robotics.com/)~~  (offline, [Archived](https://web.archive.org/web/20170601033032/http://scorpion-robotics.com/))  
 Download:  [Food4Rhino.com](https://www.food4rhino.com/app/scorpion#downloads_list)    
 Research Publications:  [Automated Construction Using Adaptive Programing](https://www.researchgate.net/publication/300721200_An_Approach_to_Automated_Construction_Using_Adaptive_Programing)  
-Price: Free (open source Grasshopper component)  
+Price: **Free** (open source Grasshopper component)  
 Developed by: [Khaled Elashry](https://www.researchgate.net/profile/Khaled_Elashry2) - [Vincent Huyghe](https://www.ucl.ac.uk/bartlett/architecture/vincent-huyghe) - [Ruairi Glynn  ](https://www.researchgate.net/profile/Ruairi_Glynn)  
 Robot brands : **UR** (Visualisation only for UR10)   
 Description:  
@@ -142,7 +145,7 @@ End-effector Tools
 | :white_check_mark:  |:white_check_mark:|:white_check_mark:|:x:                  |
 
 ___
-<a name="Taco"></a>
+<a name="Taco ABB"></a>
 ## Taco ABB
 Website:  
 [Food4Rhino.com](https://www.food4rhino.com/app/taco-abb)   
@@ -152,10 +155,11 @@ Research Publications utilising this plugin:
 [Tool Path Generator for Artistic Drawing with Industrial Robot](https://www.researchgate.net/publication/338598379_Tool_Path_Generator_for_Artistic_Drawing_with_Industrial_Robot)  
 [Robotic Formwork in the MARS Pavilion](http://papers.cumincad.org/data/works/att/acadia17_522.pdf)  
 [Robotic Fabrication Workflows for Environmentally Driven Facades](https://vtechworks.lib.vt.edu/bitstream/handle/10919/92001/Cabrera_PM_T_2019.pdf?sequence=1)  
-Price:  Free   
+Price:  **Free**   
 Developed by: [blickfeld7](http://blickfeld7.com/architecture/rhino/grasshopper/Taco/)   
 Robot brands : **ABB**  
-Description:  TACO is a free and user-friendly programming plugin for the simulation and control of ABB industrial robots directly within Grasshopper. Taco offers users to program and visualize ABB robots with parametrics.  
+Description:  
+TACO-ABB is a free and user-friendly programming plugin for the simulation and control of ABB industrial robots directly within Grasshopper. Taco offers users to program and visualize ABB robots with parametrics.  
 
 | offline programming |command streaming | Visualisation    |External axis support|
 | ----------          |:-------------:   |:----------------:|:-------------------:|
