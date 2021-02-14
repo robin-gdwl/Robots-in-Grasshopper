@@ -1,5 +1,6 @@
 import io
 import requests
+import pandas as pd
 import pytablereader as ptr
 import pytablewriter as ptw
 
@@ -32,13 +33,37 @@ loader = ptr.CsvTableTextLoader(sheet.text)
         # "==============",
         # "{:s}".format(ptw.dumps_tabledata(table_data)),
     # ]))
+loaded = loader.load()
+for table_data in loaded:
+    # print(table_data.as_dataframe())
+    print(table_data)
+    print(table_data.rows)
+    dataframe_01 = table_data.as_dataframe()
 
+def true_to_checkmark(data):
+    if isinstance(data, bool):
+        if data:
+            return ":white_check_mark:"
+        else:
+            return ":x:"
+    else:
+        return ":x:"
 
+# for value in dataframe_01['Open_Source']:
+    # value = true_to_checkmark(value)
+dataframe_01['Open_Source'] = dataframe_01['Open_Source'].apply(true_to_checkmark) 
+with pd.option_context('display.max_rows', None, 'display.max_columns', None):  # more options can be specified also
+    print(dataframe_01)
+# print(dataframe_01) 
+# print(loaded.rows)
+# print(dir(loaded))
+# print(dir(loader))
+# print(loader)
 writer = ptw.MarkdownTableWriter()
 writer.from_csv(sheet.text)
 with open("./Resources/sample.md", "w") as f:
         writer.stream = f
         writer.write_table()
 
-print(writer.headers)
+# print(writer.headers)
 # writer.write_table()
