@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="400" height="200" viewBox="0 -100 200 100">
+<defs>
+</defs>
+<text x="10" y="-90" font-size="8" fill="blue" font-family="Arial, Helvetica, sans-serif" dy="0em">ROBOT COMPONENTS</text>
+<text x="10" y="-80" font-size="8" dy="0em">(by Robot Components)</text>
+<text x="10" y="-55" font-size="8"><tspan x="10" dy="0em">Robot Components is a plugin for</tspan><tspan x="10" dy="1em">intuitive robot programming for ABB</tspan><tspan x="10" dy="1em">robots. Robot Components offers a wide</tspan><tspan x="10" dy="1em">set of tools to create toolpaths,</tspan><tspan x="10" dy="1em">simulate robotic motion and generate</tspan><tspan x="10" dy="1em">RAPID code within Gra....</tspan></text>
+</svg>
