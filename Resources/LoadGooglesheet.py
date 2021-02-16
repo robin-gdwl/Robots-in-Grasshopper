@@ -62,8 +62,20 @@ with pd.option_context('display.max_rows', None, 'display.max_columns', None):  
 writer = ptw.MarkdownTableWriter()
 writer.from_csv(sheet.text)
 with open("./Resources/sample.md", "w") as f:
-        writer.stream = f
-        writer.write_table()
+    with open('./Resources/Intro.md','r') as intro_file:
+        for line in intro_file:
+            f.write(line)
+    writer.stream = f
+    writer.write_table()
 
 # print(writer.headers)
 # writer.write_table()
+
+"""
+flow: 
+get gsheet
+write intro 
+write table 
+write every entry
+write outro
+"""
