@@ -216,6 +216,7 @@ Description:
 
 ___
 <a name="RobotComp"></a>
+<a title="HUGEFANCY Documentation" href="hugefancy-docs.github.io"><img align="right" alt="NexT logo" width="400" height="120" src="example.svg"></a>
 ## Robot Components
 __to be added__   
 Website:  
