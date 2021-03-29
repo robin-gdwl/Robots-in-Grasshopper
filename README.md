@@ -177,13 +177,11 @@ Developed by: [Shih-Yuan Wang](https://www.arch.nctu.edu.tw/en/people-2/shihyuan
 __to be added__
 ___
 <a name="RoboDK"></a>
-## RoboDK
-__to be added__  
-Website:  
-Download:  
+## RoboDK 
+Website: [RobotDK doc](https://robodk.com/doc/en/Plugin-Rhino.html)
+Download: [Food4Rhino.com](https://www.food4rhino.com/app/robodk)
 Research Publications:  
-Price:  
-to be added  
+Price: [RobotDK prices](https://robodk.com/pricing)
 Description:  
 
 ___
@@ -195,14 +193,15 @@ __to be added__
 ___
 <a name="RFD"></a>
 ## Robotic Fabrication Design
+Download: [Food4Rhino.com](https://www.food4rhino.com/app/rfdrobotic-fabrication-design)
 Developed by: [MXM-Architects](https://www.mxmarchitects.com/lab-mxm)
 __to be added__
 ___
 <a name="Furobot"></a>
 ## Furobot
 __to be added__    
-Website:  
-Download:  
+Website: [Documentation](https://fabunion.github.io/index.html)
+Download: [Food4Rhino.com](https://www.food4rhino.com/app/furobot)
 Research Publications:  
 Price:  
 Developed by:   [Fab-Union](http://www.fab-union.com/en/col.jsp?id=101)   
